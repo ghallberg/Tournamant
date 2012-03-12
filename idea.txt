@@ -1,0 +1,16 @@
+Tournamant
+
+Abstract: Framework for managing tournaments.
+
+Features:
+    Automatic seeding for different tournament types, preferably modular
+        Roundrobbin
+        Single bracket
+        Loser bracket
+        Swiss
+        Etc.
+
+    Tournament database
+        Reuse player profile
+        Keep statistics per player and per tournament
+    
